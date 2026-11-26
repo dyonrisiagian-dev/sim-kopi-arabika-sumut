@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets - JANGAN unggah file rahasia ke GitHub
+.streamlit/secrets.toml
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
